@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/anshkumar2311" target="blank"><img src="https://img.shields.io/twitter/follow/anshkumar2311?logo=twitter&style=for-the-badge" alt="anshkumar2311" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Environmental Education Platfom**
+- 🔭 I’m currently working on **Linux Package Manager**
 
 - 🌱 I’m currently learning **React, Nextjs, Typescript**
 
-- 👯 I’m looking to collaborate on **Environmental Education Platfom**
+<!--- 👯 I’m looking to collaborate on ****-->
 
 - 👨‍💻 All of my projects are available at [https://portfolio-anshkumar2311s-projects.vercel.app/](https://portfolio-anshkumar2311s-projects.vercel.app/)
 
