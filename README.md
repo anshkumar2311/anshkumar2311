@@ -43,4 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=tokyonight" alt="anshkumar2311" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshkumar2311&&theme=tokyonight" alt="anshkumar2311" /></p>
 <p align='center'><img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/></p>
-<p align='center'><img src="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/snake.svg" alt="Snake animation" /></p>
+<!-- <p align='center'><img src="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/snake.svg" alt="Snake animation" /></p> -->
