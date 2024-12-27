@@ -23,6 +23,7 @@
 - 📫 How to reach me **anshkumar1399@gmail.com**
 
 - ⚡ Fun fact **A coding ninja with a knack for techy magic!**
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
