@@ -95,7 +95,7 @@
 
 
 <br><br>
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <p align="left">
@@ -115,8 +115,8 @@
 <div align="center" style="display: flex; gap: 30px; align-items: center">
   <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="165" alt="Streak Graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="165" alt="Languages Graph"  />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=tokyonight" alt="anshkumar2311" /></p><br>
 </div>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=tokyonight" alt="anshkumar2311" /></p>
 <br>
 
 ### ⏳ Coding Activity:
