@@ -133,6 +133,6 @@
 </div>
 <br>
 
-### 🐍 Snake-Eating My Contribution Graph:
+### 🐍 Snake-Eating Contribution Graph:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
