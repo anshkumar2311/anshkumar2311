@@ -117,12 +117,12 @@
 </div>
 <br>
 
-<!--### ⏳ Coding Activity:
+### ⏳ Coding Activity:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <img src="https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg" alt="WakaTime Badge" />
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=tokyonight&langs_count=6" height="235" />
-</div>-->
+</div>
 
 
 
