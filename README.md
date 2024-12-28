@@ -46,6 +46,6 @@
 <p align='center'><img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/></p>
 
 ### 🐍 Snake-Eating My Contribution Graph:
-<img src="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark mode)" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
