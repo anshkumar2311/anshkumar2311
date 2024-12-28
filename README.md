@@ -95,6 +95,21 @@
 
 
 <br><br>
+
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<div align="center" style="display: flex; gap: 30px; align-items: center">
+ <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="165" alt="Streak Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="165" alt="Languages Graph"  />
+</div>
+<br>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=tokyonight" alt="anshkumar2311" />
+</div>
+<br>
+
 ### 🤝 Connect with me:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -108,16 +123,6 @@
 <a href="https://auth.geeksforgeeks.org/user/anshkumar2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshkumar2311" height="30" width="40" /></a>
 </p>
 <br><br>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-<div align="center" style="display: flex; gap: 30px; align-items: center">
-  <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="165" alt="Streak Graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="165" alt="Languages Graph"  />
-</div>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=tokyonight" alt="anshkumar2311" /></p>
-<br>
 
 ### ⏳ Coding Activity:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
