@@ -128,8 +128,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)
 <div align="center">
-<img src="https://wakatime.com/share/@anshkumar2311/529bfb15-db9f-4e8e-b7aa-0dc70baa56d8.svg" width="800" height="350"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=tokyonight&langs_count=6" height="235" /> -->
+<!-- <img src="https://wakatime.com/share/@anshkumar2311/529bfb15-db9f-4e8e-b7aa-0dc70baa56d8.svg" width="800" height="350"/> -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=tokyonight&langs_count=6" height="235" />
 </div>
 
 
