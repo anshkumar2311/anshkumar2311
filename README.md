@@ -51,7 +51,6 @@
 
 <div align="left">
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40">
-<img src="https://v4.mui.com/static/logo.png" alt="Material-UI" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40">
