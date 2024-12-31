@@ -20,13 +20,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```markdown
-- 🔭 I’m currently working on Linux Package Manager
+- 🔭 I’m currently working on AI-Trip-Planner
 
 - 🌱 I’m currently learning React, Nextjs, Typescript
 
 - 👨‍💻 All of my projects are available at https://portfolio-anshkumar2311s-projects.vercel.app
 
-- 💬 Ask me about Python, HTML, CSS, MySQL
+- 💬 Ask me about Python, HTML, CSS, JS, MySQL
 
 - 📫 How to reach me anshkumar1399@gmail.com
 
