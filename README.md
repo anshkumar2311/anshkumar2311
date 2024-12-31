@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anshkumar2311&label=Profile%20views&color=0e75b6&style=flat" alt="anshkumar2311" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anshkumar2311&label=Profile%20views&color=0e75b6&style=flat" alt="anshkumar2311" height="30" width="180px"/> </p>
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
