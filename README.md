@@ -5,17 +5,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F72585&background=00000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG">
 </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshkumar2311&label=Profile%20views&color=0e75b6&style=flat" alt="anshkumar2311" height="30" width="180px"/> </p>
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-
 ![](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 <br>
-
 <p align="left"> <a href="https://twitter.com/anshkumar2311" target="blank"><img src="https://img.shields.io/twitter/follow/anshkumar2311?logo=twitter&style=for-the-badge" alt="anshkumar2311" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -31,7 +27,6 @@
 - 📫 How to reach me anshkumar1399@gmail.com
 
 - ⚡ Fun fact A coding ninja with a knack for techy magic!
-​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ```
 <br><br>
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Skills and Tools:
@@ -95,7 +90,6 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 <div align="center" style="display: flex; gap: 30px; align-items: center">
  <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="165" width="400" alt="Streak Graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=6&theme=tokyonight&layout=compact&card_width=320" alt="anshkumar2311" width="400" height="165" />
