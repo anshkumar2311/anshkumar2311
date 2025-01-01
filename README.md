@@ -59,14 +59,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="Node.js" height="40">
 </div>  
 
-
 #### Databases:
 
 <div align="left">
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40">
 </div>  
-
 
  #### Tools:
 
@@ -93,10 +91,7 @@
 <img src="https://i.ibb.co/QMh6KpS/win11.png" alt="Windows 11" height="50">
 <img src="https://freepngimg.com/save/76037-installation-ubuntu-server-edition-linux-canonical/800x801" alt="ubuntu-server" height="50">
 </div>
-
-
 <br><br>
-
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -112,7 +107,6 @@
 
 ### 🤝 Connect with me:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 <p align="left">
 <a href="https://twitter.com/anshkumar2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshkumar2311" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ansh-kumar-747009311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-kumar-747009311" height="30" width="40" /></a>
@@ -125,6 +119,7 @@
 <br><br>
 
 ### ⏳ Coding Activity:
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
 [![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)
@@ -133,9 +128,8 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=tokyonight&langs_count=6" height="235" />
 </div>
 
-
-
 ### 📈 Contribution Graph:
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -143,5 +137,6 @@
 <br>
 
 ### 🐍 Snake-Eating Contribution Graph:
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
