@@ -80,6 +80,7 @@
 <div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40">
+<img src="https://cdn.brandfetch.io/idd89H35Hf/w/400/h/400/theme/dark/icon.jpeg?c=1bfwsmEH20zzEfSNTed" height="45" alt="Zed">
 </div>
   
 #### 💻Workspace:
