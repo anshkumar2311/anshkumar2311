@@ -90,6 +90,7 @@
 <div align="left">
 <img src="https://i.ibb.co/QMh6KpS/win11.png" alt="Windows 11" height="50">
 <img src="https://freepngimg.com/save/76037-installation-ubuntu-server-edition-linux-canonical/800x801" alt="ubuntu-server" height="50">
+  <img src="https://absolutelybaching.com/wp-content/uploads/2022/05/garuda-linux-logo.png" alt="Garuda Linux" height="50">
 </div>
 <br><br>
 
