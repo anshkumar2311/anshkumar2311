@@ -55,6 +55,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40">
 <img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="Next.js" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="Node.js" height="40">
+<img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp" alt="Express.js" height="40">
 </div>  
 
 #### Databases:
