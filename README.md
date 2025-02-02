@@ -43,7 +43,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash" height="40">
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" height="40">
+<!--<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" height="40">-->
 </div>  
   
 #### Frameworks & Libraries:
