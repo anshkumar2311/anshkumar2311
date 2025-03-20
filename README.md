@@ -93,6 +93,7 @@
 <img src="https://freepngimg.com/save/76037-installation-ubuntu-server-edition-linux-canonical/800x801" alt="ubuntu-server" height="50">
   <img src="https://absolutelybaching.com/wp-content/uploads/2022/05/garuda-linux-logo.png" alt="Garuda Linux" height="50">
   <img src="https://imgs.search.brave.com/HOC3ls2K7ei2i-S_4Tl_znv8sms_efs31UTtMNKxIKM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9kaXN0cmli/dXRvci1sb2dvLXBv/cC1vcy1pY29uLTI1/NngyNTYtZ2swYWZm/cWMucG5n" height="50" alt="Pop">
+  <img src="https://i.ibb.co/k3PHj6C/kali.png" alt="Kali Linux" height="50">
 </div>
 <br><br>
 
