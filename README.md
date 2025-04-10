@@ -101,7 +101,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <div align="center" style="display: flex; gap: 30px; align-items: center">
  <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="165" width="400" alt="Streak Graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=320" alt="anshkumar2311" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=320" alt="anshkumar2311" /> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anshkumar2311" />
   
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=6&theme=tokyonight&layout=compact&card_width=320" alt="anshkumar2311" width="400" height="165" /> -->
 </div>
