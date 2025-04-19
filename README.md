@@ -17,13 +17,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```markdown
-- 🔭 I’m currently working on Hackaton-Proj1
+- 🔭 I’m currently working on Metaverse
 
 - 🌱 I’m currently learning React, Nextjs, Typescript
 
 - 👨‍💻 All of my projects are available at https://portfolio-anshkumar2311s-projects.vercel.app
 
-- 💬 Ask me about Python, HTML, CSS, JS, MySQL
+- 💬 Ask me about Python, JS, TailwindCSS, NodeJS, MySQL
 
 - 📫 How to reach me anshkumar1399@gmail.com
 
