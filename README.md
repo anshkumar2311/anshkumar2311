@@ -49,7 +49,7 @@
 #### Frameworks & Libraries:
 
 <div align="left">
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40">
+<!--<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40">-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40">
 <!--<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40">-->
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40">
@@ -70,9 +70,10 @@
 <div align="left">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40">
 <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GitHub" height="40">
+<img src="https://imgs.search.brave.com/vao-wEwUxz3-hrkwnfGaXmUjUTjwOcizRQnqubxQzj4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI4LzIvZ2l0a3Jh/a2VuLWxvZ28tcG5n/X3NlZWtsb2dvLTI4/MTcyMy5wbmc" height="40" alt="gitKraken">
 <img src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png" alt="Warp" height="45">
 <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" height="40">
-<!-- <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="40"> --> 
+<img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="40">
 <!--<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40">-->
 <img src="https://imgs.search.brave.com/BNSQrXn2bmeJXUV454rdF3_0T8nAzszmcKdxq9LZbwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQ5YzljMTg4/MmJjMjJkYzEzMWZi/YmYyODM3ZjEyYzEw/MjY5OWFlM2I5YTY1/YmZhNTJlY2EwM2Iz/N2RhMWIxOC92ZXJj/ZWwuY29tLw" alt="Vercel" height="40"> 
 <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" alt="Arduino" height="40">-->
@@ -84,6 +85,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40">
 <img src="https://cdn.brandfetch.io/idd89H35Hf/w/400/h/400/theme/dark/icon.jpeg?c=1bfwsmEH20zzEfSNTed" height="45" alt="Zed">
+<img src="https://img.icons8.com/color/512/cursor-ai.png" height="45"alt="Cursor">
+<img src="https://imgs.search.brave.com/bQXvLs6rvABDAjd5I1MSgiSsPBofoV5nsO6u6sTnXZ4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzNhL05lb3ZpbS1t/YXJrLnN2Zw" height="40"alt="Neovim">
 </div>
   
 #### 💻Workspace:
