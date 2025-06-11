@@ -38,7 +38,7 @@ anshkumar2311@github:~$ ./welcome.sh
 ```
 
 ```markdown
-👋 I love building cool stuff and breaking things to understand how they work.  
+👋 I love building, breaking, and learning how things work.  
 💻 Exploring backend, security, and cloud technologies.  
 🚀 Currently experimenting with Next.js and DevOps tools.  
 🛠️ Comfortable with JavaScript, TypeScript, Node.js, and databases.  
