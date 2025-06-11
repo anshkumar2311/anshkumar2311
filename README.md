@@ -215,7 +215,7 @@ anshkumar2311@github:~$ ./welcome.sh
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
-<!--[![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)-->
+[![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)
 <div align="center">
 <!-- <img src="https://wakatime.com/share/@anshkumar2311/529bfb15-db9f-4e8e-b7aa-0dc70baa56d8.svg" width="800" height="350"/> -->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=tokyonight&langs_count=8" height="235" />
@@ -225,7 +225,7 @@ anshkumar2311@github:~$ ./welcome.sh
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
 
