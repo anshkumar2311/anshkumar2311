@@ -13,8 +13,6 @@
 <!--<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">-->  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
-<!--![](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=6)-->
-
 <a href="https://github-trophies.vercel.app/?username=anshkumar2311" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=9">
 </a>
@@ -113,13 +111,48 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center" style="display: flex; gap: 30px; align-items: center">
+<!-- <div align="center" style="display: flex; gap: 30px; align-items: center">
  <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&card_height=235" width="400" alt="Streak Graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=8&theme=tokyonight&layout=compact&card_width=380&card_height=400" alt="anshkumar2311" />
-</div>
-<div align="center">
+</div> -->
+<!-- <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=tokyonight" alt="anshkumar2311" />
+</div> -->
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+        <th>
+          <a href="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
+            <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
+          </a>
+        </th> 
+        <th>
+          <a href="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=8&theme=dracula&layout=compact&card_width=380&card_height=400">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=8&theme=dracula&layout=compact&card_width=380&card_height=400"/>
+          </a>
+        </th>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&">
+          <img src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshkumar2311">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshkumar2311&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+</table>
 </div>
+
 <br>
 
 ### 🤝 Connect with me:
@@ -139,21 +172,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
-<!--[![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)
-<div align="center">-->
+<!--[![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)-->
+<div align="center">
 <!-- <img src="https://wakatime.com/share/@anshkumar2311/529bfb15-db9f-4e8e-b7aa-0dc70baa56d8.svg" width="800" height="350"/> -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=tokyonight&langs_count=8" height="235" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=8" height="235" />
 </div>
 
 ### 📈 Contribution Graph:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
 
 ### 🐍 Snake-Eating Contribution Graph:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
