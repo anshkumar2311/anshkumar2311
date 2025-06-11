@@ -42,70 +42,89 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Skills and Tools:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
-### Programming Languages:
+### 📋 Programming Languages:
 
 <div align="left"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40">
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash" height="40">
-<!--<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" height="40">-->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="27">
+ <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="27">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="27">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="27">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="27">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="27">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="27">
+<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" height="27">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="27">
 </div>  
   
-#### Frameworks & Libraries:
+#### 📚  Frameworks, Platforms & Libraries:
 
 <div align="left">
 <!--<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40">-->
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40">
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="27">
 <!--<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40">-->
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40">
-<img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="Next.js" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="Node.js" height="40">
-<img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp" alt="Express.js" height="40">
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda" height="27">
+  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="bun" height="27">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="27">
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="27">
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height="27">
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" height="27">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite" height="27">
+<!--   <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm" height="27"> -->
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="27">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" height="28">
 </div>  
 
-#### Databases:
+#### 💾 Databases:
 
 <div align="left">
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40">
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="27">
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="27">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL" height="27">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="firebase" height="27">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" height="27">
 </div>  
 
- #### Tools:
-
+ #### 🥅 Tools:
 <div align="left">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40">
-<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GitHub" height="40">
-<img src="https://imgs.search.brave.com/vao-wEwUxz3-hrkwnfGaXmUjUTjwOcizRQnqubxQzj4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI4LzIvZ2l0a3Jh/a2VuLWxvZ28tcG5n/X3NlZWtsb2dvLTI4/MTcyMy5wbmc" height="40" alt="gitKraken">
-<img src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png" alt="Warp" height="45">
-<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" height="40">
-<img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="40">
-<!--<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40">-->
-<img src="https://imgs.search.brave.com/BNSQrXn2bmeJXUV454rdF3_0T8nAzszmcKdxq9LZbwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQ5YzljMTg4/MmJjMjJkYzEzMWZi/YmYyODM3ZjEyYzEw/MjY5OWFlM2I5YTY1/YmZhNTJlY2EwM2Iz/N2RhMWIxOC92ZXJj/ZWwuY29tLw" alt="Vercel" height="40"> 
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="27">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="27">
+<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" height="27" alt="gitKraken">
+<img src="https://img.shields.io/badge/-Warp-7E5BEF?style=for-the-badge&logo=warp&logoColor=white" alt="Warp" height="27">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="27">
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="27">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="27">
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="28"> 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height="28">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="28">
 <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" alt="Arduino" height="40">-->
 </div>
 
-#### IDEs / Text Editors:
+#### 💻 IDEs / Text Editors:
 
 <div align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40">
-<img src="https://cdn.brandfetch.io/idd89H35Hf/w/400/h/400/theme/dark/icon.jpeg?c=1bfwsmEH20zzEfSNTed" height="45" alt="Zed">
-<img src="https://img.icons8.com/color/512/cursor-ai.png" height="45"alt="Cursor">
-<img src="https://imgs.search.brave.com/bQXvLs6rvABDAjd5I1MSgiSsPBofoV5nsO6u6sTnXZ4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzNhL05lb3ZpbS1t/YXJrLnN2Zw" height="40"alt="Neovim">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="27">
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="27">
+<img src="https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white" height="27" alt="Zed">
+  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" height="27"alt="replit">
+  <img src="https://img.shields.io/badge/-Cursor-3C74FF?style=for-the-badge&logo=cursor&logoColor=white" height="27"alt="Cursor">
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="27"alt="pycharm">
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" height="27"alt="vim">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="27"alt="jupyter">
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" height="27"alt="gc">
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="27"alt="Neovim">
 </div>
   
-#### 💻Workspace:
+#### 🎛️ Workspace:
 
 <div align="left">
-<img src="https://i.ibb.co/QMh6KpS/win11.png" alt="Windows 11" height="50">
-<img src="https://freepngimg.com/save/76037-installation-ubuntu-server-edition-linux-canonical/800x801" alt="ubuntu-server" height="50">
-  <img src="https://absolutelybaching.com/wp-content/uploads/2022/05/garuda-linux-logo.png" alt="Garuda Linux" height="50">
-  <img src="https://imgs.search.brave.com/HOC3ls2K7ei2i-S_4Tl_znv8sms_efs31UTtMNKxIKM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9kaXN0cmli/dXRvci1sb2dvLXBv/cC1vcy1pY29uLTI1/NngyNTYtZ2swYWZm/cWMucG5n" height="50" alt="Pop">
-  <img src="https://i.ibb.co/k3PHj6C/kali.png" alt="Kali Linux" height="50">
+<img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11" height="27">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="27">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt=" Linux" height="27">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu-server" height="27">
+  <img src="https://img.shields.io/badge/-Garuda_Linux-8E44AD?style=for-the-badge&logo=garuda-linux&logoColor=white" alt="Garuda Linux" height="27">
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" height="27" alt="Pop">
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" height="27">
 </div>
 <br><br>
 
@@ -157,15 +176,21 @@
 
 ### 🤝 Connect with me:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left">
-<a href="https://twitter.com/anshkumar2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshkumar2311" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ansh-kumar-747009311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-kumar-747009311" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28400555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28400555" height="30" width="40" /></a>
-<a href="https://instagram.com/_a_n_s_hh___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_n_s_hh___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anshkumar1399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshkumar1399" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@anshkumar1399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anshkumar1399" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anshkumar2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshkumar2311" height="30" width="40" /></a>
-</p>
+  <div align="left">
+<a href="https://twitter.com/anshkumar2311" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="anshkumar2311" height="27" /></a>
+<a href="https://linkedin.com/in/ansh-kumar-747009311" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ansh-kumar-747009311" height="27" /></a>
+<a href="https://stackoverflow.com/users/28400555" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="27" /></a>
+<a href="https://instagram.com/_a_n_s_hh___" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_a_n_s_hh___" height="27" /></a>
+<a href="https://discord.com/users/anshkumar2311" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="27" />
+</a>
+  <a href="https://www.threads.com/@_a_n_s_hh___" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="thread" height="27" />
+</a>
+<a href="https://www.hackerrank.com/anshkumar1399" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="anshkumar1399" height="27"/></a>
+<a href="https://www.hackerearth.com/@anshkumar1399" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@anshkumar1399" height="27" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anshkumar2311" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="anshkumar2311" height="27" /></a>
+  </div>
 <br><br>
 
 ### ⏳ Coding Activity:
@@ -175,14 +200,14 @@
 <!--[![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)-->
 <div align="center">
 <!-- <img src="https://wakatime.com/share/@anshkumar2311/529bfb15-db9f-4e8e-b7aa-0dc70baa56d8.svg" width="800" height="350"/> -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=8" height="235" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=tokyonight&langs_count=8" height="235" />
 </div>
 
 ### 📈 Contribution Graph:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
 
