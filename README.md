@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Ansh+Kumar!" alt="HELLO SECTION">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=$+whoami;+I'm+Ansh+Kumar!+👋" alt="HELLO SECTION">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F72585&background=00000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG">
@@ -9,9 +9,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshkumar2311&label=Profile%20views&color=0e75b6&style=flat" alt="anshkumar2311" height="30" width="180px"/> </p>
 
 ### 🏆 GitHub Trophies
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<!--for red line use 1st one ->
+<!--<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">-->  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
-![](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=6)
+<!--![](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=6)-->
+
+<a href="https://github-trophies.vercel.app/?username=anshkumar2311" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=9">
+</a>
+<!-- if you want to add more trophy inc the column size -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Review,Experience)](https://github.com/anshkumar2311)
+
+
 <br>
 <p align="left"> <a href="https://twitter.com/anshkumar2311" target="blank"><img src="https://img.shields.io/twitter/follow/anshkumar2311?logo=twitter&style=for-the-badge" alt="anshkumar2311" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -31,7 +42,7 @@
 ```
 <br><br>
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Skills and Tools:
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
 ### Programming Languages:
 
@@ -101,7 +112,7 @@
 <br><br>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center" style="display: flex; gap: 30px; align-items: center">
  <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&card_height=235" width="400" alt="Streak Graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=8&theme=tokyonight&layout=compact&card_width=380&card_height=400" alt="anshkumar2311" />
@@ -112,7 +123,7 @@
 <br>
 
 ### 🤝 Connect with me:
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
 <a href="https://twitter.com/anshkumar2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshkumar2311" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ansh-kumar-747009311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-kumar-747009311" height="30" width="40" /></a>
@@ -126,7 +137,7 @@
 
 ### ⏳ Coding Activity:
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
 <!--[![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)
 <div align="center">-->
@@ -136,7 +147,7 @@
 
 ### 📈 Contribution Graph:
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
@@ -144,5 +155,5 @@
 
 ### 🐍 Snake-Eating Contribution Graph:
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
