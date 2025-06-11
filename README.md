@@ -1,4 +1,5 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<!--[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)-->
+[![MasterHead](https://camo.githubusercontent.com/e6ebed0f301f416dccd5391bb5ecb77f2204d8cbd64a62f2a2098475e1876678/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966)](https://github.com/anshkumar2311)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=$+whoami;+I'm+Ansh+Kumar!+👋" alt="HELLO SECTION">
@@ -22,22 +23,37 @@
 
 
 <br>
-<p align="left"> <a href="https://twitter.com/anshkumar2311" target="blank"><img src="https://img.shields.io/twitter/follow/anshkumar2311?logo=twitter&style=for-the-badge" alt="anshkumar2311" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<!-- About ME -->
+
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<div class="about-main" style="display: flex;">
+    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="https://i.pinimg.com/originals/48/97/66/489766e5f48617be90fad6832dd01570.gif" height="300" width="250">
+    </div>
+ 
+```
+anshkumar2311@github:~$ ./welcome.sh
+```
 
 ```markdown
-- 🔭 I’m currently working on Metaverse
-
-- 🌱 I’m currently learning React, Nextjs, Typescript
-
-- 👨‍💻 All of my projects are available at https://portfolio-anshkumar2311s-projects.vercel.app
-
-- 💬 Ask me about Python, JS, TailwindCSS, NodeJS, MySQL
-
-- 📫 How to reach me anshkumar1399@gmail.com
-
-- ⚡ Fun fact : A coding ninja with a knack for techy magic!
+👋 I love building cool stuff and breaking things to understand how they work.  
+💻 Exploring backend, security, and cloud technologies.  
+🚀 Currently experimenting with Next.js and DevOps tools.  
+🛠️ Comfortable with JavaScript, TypeScript, Node.js, and databases.  
+🐧 Running on Garuda Linux, always.  
+🎧 Coding sessions powered by good music.  
+🧩 Big fan of solving complex problems and system design challenges.  
+🌍 Always learning, always improving, always curious.  
+🤝 Let’s connect and build something awesome together!
+​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ```
+
+  </div>
+</div>
+
+
 <br><br>
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Skills and Tools:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
@@ -176,7 +192,7 @@
 
 ### 🤝 Connect with me:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <div align="left">
+  <div align="center">
 <a href="https://twitter.com/anshkumar2311" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="anshkumar2311" height="27" /></a>
 <a href="https://linkedin.com/in/ansh-kumar-747009311" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ansh-kumar-747009311" height="27" /></a>
 <a href="https://stackoverflow.com/users/28400555" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="27" /></a>
@@ -216,4 +232,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  **Thanks for visiting my profile! 🙏**
+  
+  *Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
+  
 </div>
