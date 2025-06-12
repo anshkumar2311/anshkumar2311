@@ -190,6 +190,7 @@ anshkumar2311@github:~$ ./welcome.sh
   </tbody>
 </table>
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
 
 <br>
 
@@ -222,12 +223,12 @@ anshkumar2311@github:~$ ./welcome.sh
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=tokyonight&langs_count=8" height="235" />
 </div>
 
-### 📈 Contribution Graph:
+<!--### 📈 Contribution Graph:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</div>-->
 <br>
 
 ### 🐍 Snake-Eating Contribution Graph:
