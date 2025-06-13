@@ -19,7 +19,7 @@
 </a>
 <!-- if you want to add more trophy inc the column size -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Review,Experience)](https://github.com/anshkumar2311)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Followers,Issues,Review,Experience)](https://github.com/anshkumar2311)
 
 
 <br>
