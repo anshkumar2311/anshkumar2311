@@ -2,7 +2,7 @@
 [![MasterHead](https://camo.githubusercontent.com/e6ebed0f301f416dccd5391bb5ecb77f2204d8cbd64a62f2a2098475e1876678/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966)](https://github.com/anshkumar2311)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=$+whoami;+I'm+Ansh+Kumar!+👋" alt="HELLO SECTION">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=$+whoami;+I'm+Ansh+Kumar+👋" alt="HELLO SECTION">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F72585&background=00000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG">
