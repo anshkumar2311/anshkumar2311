@@ -162,8 +162,11 @@ anshkumar2311@github:~$ ./welcome.sh
   <tbody>
     <tr>
         <th>
-          <a href="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
+<!--           <a href="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
             <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
+          </a> -->
+          <a href="https://nirzak-streak-stats.vercel.app/?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
+            <img src="https://nirzak-streak-stats.vercel.app/?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
           </a>
         </th> 
         <th>
