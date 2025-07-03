@@ -18,7 +18,7 @@
   <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=8">
 </a>
 
-<img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Repositories,Followers,Issues&row=1&column=3&exclude=sponsors">
+<img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Repositories,Followers,Issues&row=1&column=8">
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Followers,Issues,Review,Experience)](https://github.com/anshkumar2311) -->
