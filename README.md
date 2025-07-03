@@ -15,9 +15,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
 <a href="https://github-trophies.vercel.app/?username=anshkumar2311" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=9">
+  <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=8">
 </a>
 <!-- if you want to add more trophy inc the column size -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Repositories,Followers,Issues,Experience" alt="anshkumar2311" /></a> </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Followers,Issues,Review,Experience)](https://github.com/anshkumar2311) -->
 
