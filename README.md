@@ -89,10 +89,12 @@ anshkumar2311@github:~$ ./welcome.sh
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="27">
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height="27">
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" height="27">
+  <img src="https://img.shields.io/badge/Deno-%23000000.svg?&style=for-the-badge&logo=deno&logoColor=white" height="27" alt="Deno">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite" height="27">
   <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm" height="27">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="27">
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28">
+  <img src="https://img.shields.io/badge/Vanilla_JS-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="27" alt="Vanilla JS">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" height="28">
 </div>  
 
@@ -128,6 +130,7 @@ anshkumar2311@github:~$ ./welcome.sh
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="27">
 <img src="https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white" height="27" alt="Zed">
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" height="27"alt="replit">
+  <img src="https://img.shields.io/badge/Sublime_Text-%23FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="27" alt="Sublime Text">
   <img src="https://img.shields.io/badge/-Cursor-3C74FF?style=for-the-badge&logo=cursor&logoColor=white" height="27"alt="Cursor">
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="27"alt="pycharm">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" height="27"alt="vim">
