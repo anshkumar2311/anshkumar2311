@@ -20,8 +20,8 @@
 
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/src/header_.png)](https://github.com/anshkumar2311)
 <!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Ansh+Kumar+!" alt="HELLO SECTION">
