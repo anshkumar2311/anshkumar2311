@@ -1,8 +1,30 @@
 <!--[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)-->
-[![MasterHead](https://camo.githubusercontent.com/e6ebed0f301f416dccd5391bb5ecb77f2204d8cbd64a62f2a2098475e1876678/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966)](https://github.com/anshkumar2311)
+<!--[![MasterHead](https://camo.githubusercontent.com/e6ebed0f301f416dccd5391bb5ecb77f2204d8cbd64a62f2a2098475e1876678/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966)](https://github.com/anshkumar2311)-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:2E2EFF&height=200&section=header&text=$whoami&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38AlignY=60&descAlign=50" alt="whoami"/>
+</p>
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/anshkumar2311/anshkumar2311">
+        <img src="https://img.shields.io/badge/status-updating-brightgreen.svg">
+    </a>
+    <a href="https://github.com/python/cpython">
+        <img src="https://img.shields.io/badge/Python-3.14-FF1493.svg">
+    </a>
+    <img src="https://img.shields.io/badge/contributors-8-blue.svg?logo=github">
+    <img src="https://img.shields.io/badge/stars-71-yellow.svg?logo=github">
+    <img src="https://img.shields.io/badge/forks-14-blue.svg?logo=github">
+    <img src="https://img.shields.io/badge/visitors-4366-brightgreen.svg">
+</p>
+
+[![MasterHead](https://github.com/BEPb/BEPb/blob/main/src/header_.png)](https://github.com/anshkumar2311)
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=$+whoami;+I'm+Ansh+Kumar+👋" alt="HELLO SECTION">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Ansh+Kumar+!" alt="HELLO SECTION">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F72585&background=00000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG">
@@ -22,7 +44,7 @@
 <!--<img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Repositories,Followers,Issues&row=1&column=8">-->
 
 
- <!--[![trophy](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Review,Experience)](https://github.com/anshkumar2311)-->
+ [![trophy](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Review,Experience)](https://github.com/anshkumar2311)
 
 <br>
 
@@ -51,7 +73,7 @@ anshkumar2311@github:~$ ./welcome.sh
 🧩 Big fan of solving complex problems and system design challenges.  
 🌍 Always learning, always improving, always curious.  
 🤝 Let’s connect and build something awesome together!
-​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+​‎ ‎ ‎ 
 ```
 
   </div>
@@ -81,9 +103,9 @@ anshkumar2311@github:~$ ./welcome.sh
 #### 📚  Frameworks, Platforms & Libraries:
 
 <div align="left">
-<!--<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40">-->
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="40">
 <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="27">
-<!--<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40">-->
+<img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="40">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda" height="27">
   <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="bun" height="27">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="27">
@@ -121,7 +143,7 @@ anshkumar2311@github:~$ ./welcome.sh
 <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="28"> 
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height="28">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="28">
-<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" alt="Arduino" height="40">-->
+<img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" height="40">
 </div>
 
 #### 💻 IDEs / Text Editors:
@@ -155,14 +177,10 @@ anshkumar2311@github:~$ ./welcome.sh
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- <div align="center" style="display: flex; gap: 30px; align-items: center">
- <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&card_height=235" width="400" alt="Streak Graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=8&theme=tokyonight&layout=compact&card_width=380&card_height=400" alt="anshkumar2311" />
-</div> -->
-<!-- <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=tokyonight" alt="anshkumar2311" />
-</div> -->
+
+   [![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)
 <div align="center">
+<!-- <img src="https://wakatime.com/share/@anshkumar2311/529bfb15-db9f-4e8e-b7aa-0dc70baa56d8.svg" width="800" height="350"/> -->
 <table>
   <tbody>
     <tr>
@@ -182,6 +200,7 @@ anshkumar2311@github:~$ ./welcome.sh
     </tr>
   </tbody>
 </table>
+  
 <table>
   <tbody>
     <tr>
@@ -198,7 +217,25 @@ anshkumar2311@github:~$ ./welcome.sh
     </tr>
   </tbody>
 </table>
+
+  <table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=8">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=8&card_height=480&card_width=450"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true">
+          <img src="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+</table>
 </div>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
 
 <br>
@@ -222,23 +259,15 @@ anshkumar2311@github:~$ ./welcome.sh
   </div>
 <br><br>
 
-### ⏳ Coding Activity:
+
+### 📈 3d-Contribution Graph:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
-
-[![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)
 <div align="center">
-<!-- <img src="https://wakatime.com/share/@anshkumar2311/529bfb15-db9f-4e8e-b7aa-0dc70baa56d8.svg" width="800" height="350"/> -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=tokyonight&langs_count=8" height="235" />
+  <img src="/profile-3d-contrib/profile-night-rainbow.svg" alt="Metrics" width="100%">
 </div>
-
-<!--### 📈 Contribution Graph:
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>-->
 <br>
+
 
 ### 🐍 Snake-Eating Contribution Graph:
 
@@ -254,6 +283,9 @@ anshkumar2311@github:~$ ./welcome.sh
 
 
 <div align="center">
+<br>
+  
+  ![](https://count.getloli.com/get/@anshkumar2311.github.readme)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
   
