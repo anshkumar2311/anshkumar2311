@@ -192,8 +192,8 @@ anshkumar2311@github:~$ ./welcome.sh
           </a>
         </th> 
         <th>
-          <a href="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=8&theme=dracula&layout=compact&card_width=380&card_height=400">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=8&theme=dracula&layout=compact&card_width=380&card_height=400"/>
+          <a href="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&card_width=380&card_height=400">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&card_width=380&card_height=400"/>
           </a>
         </th>
     </tr>
