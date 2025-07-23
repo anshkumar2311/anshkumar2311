@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/contributors-8-blue.svg?logo=github">
     <img src="https://img.shields.io/badge/stars-97-yellow.svg?logo=github">
     <img src="https://img.shields.io/badge/forks-14-blue.svg?logo=github">
-    <img src="https://img.shields.io/badge/visitors-4757-brightgreen.svg">
+    <img src="https://img.shields.io/badge/visitors-5214-brightgreen.svg">
 </p>
 
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/src/header_.png)](https://github.com/anshkumar2311)
