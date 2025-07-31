@@ -44,10 +44,9 @@
 <!-- About ME -->
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
-<p align="left"> <a href="https://github.com/anshkumar2311" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow--%3E-black?logo=github&style=for-the-badge" alt="Follow on GitHub" /></a> </p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="left"> <a href="https://github.com/anshkumar2311" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow--%3E-black?logo=github&style=for-the-badge" alt="Follow on GitHub" /></a> </p>
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
         <img align="left" src="https://i.pinimg.com/originals/48/97/66/489766e5f48617be90fad6832dd01570.gif" height="300" width="250">
