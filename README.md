@@ -6,16 +6,13 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/anshkumar2311/anshkumar2311">
-        <img src="https://img.shields.io/badge/status-updating-brightgreen.svg">
-    </a>
-    <a href="https://github.com/python/cpython">
-        <img src="https://img.shields.io/badge/Python-3.14-FF1493.svg">
-    </a>
-    <img src="https://img.shields.io/badge/contributors-8-blue.svg?logo=github">
-    <img src="https://img.shields.io/badge/stars-97-yellow.svg?logo=github">
-    <img src="https://img.shields.io/badge/forks-14-blue.svg?logo=github">
-    <img src="https://img.shields.io/badge/visitors-5214-brightgreen.svg">
+<a href="mailto:anshkumar1399@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://twitter.com/anshkumar2311" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="anshkumar2311" height="27" /></a>
+<a href="https://linkedin.com/in/ansh-kumar-747009311" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ansh-kumar-747009311" height="27" /></a>
+<a href="https://stackoverflow.com/users/28400555" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="27" /></a>
+<a href="https://instagram.com/_a_n_s_hh___" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_a_n_s_hh___" height="27" /></a>
+<a href="https://discord.com/users/anshkumar2311" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="27" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anshkumar2311" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="anshkumar2311" height="27" /></a>
 </p>
 
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/src/header_.png)](https://github.com/anshkumar2311)
@@ -47,7 +44,8 @@
 <!-- About ME -->
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
-<p align="left"> <a href="https://twitter.com/anshkumar2311" target="blank"><img src="https://img.shields.io/twitter/follow/anshkumar2311?logo=twitter&style=for-the-badge" alt="anshkumar2311" /></a> </p>
+<p align="left"> <a href="https://github.com/anshkumar2311" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow--%3E-black?logo=github&style=for-the-badge" alt="Follow on GitHub" /></a> </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div class="about-main" style="display: flex;">
@@ -305,26 +303,6 @@ anshkumar2311@github:~$ ./welcome.sh
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
 
 <br>
-
-### 🤝 Connect with me:
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <div align="center">
-<a href="https://twitter.com/anshkumar2311" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="anshkumar2311" height="27" /></a>
-<a href="https://linkedin.com/in/ansh-kumar-747009311" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ansh-kumar-747009311" height="27" /></a>
-<a href="https://stackoverflow.com/users/28400555" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="27" /></a>
-<a href="https://instagram.com/_a_n_s_hh___" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_a_n_s_hh___" height="27" /></a>
-<a href="https://discord.com/users/anshkumar2311" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="27" />
-</a>
-  <a href="https://www.threads.com/@_a_n_s_hh___" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="thread" height="27" />
-</a>
-<a href="https://www.hackerrank.com/anshkumar1399" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="anshkumar1399" height="27"/></a>
-<a href="https://www.hackerearth.com/@anshkumar1399" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@anshkumar1399" height="27" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anshkumar2311" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="anshkumar2311" height="27" /></a>
-  </div>
-<br><br>
-
 
 ### 📈 3d-Contribution Graph:
 
