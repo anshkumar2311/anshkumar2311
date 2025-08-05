@@ -61,10 +61,10 @@ anshkumar2311@github:~$ ./welcome.sh
 💻 Exploring backend, security, and cloud technologies.  
 🚀 Currently experimenting with Next.js and DevOps tools.  
 🛠️ Comfortable with JavaScript, TypeScript, Node.js, and databases.  
-🐧 Running on Garuda Linux, always.  
 🎧 Coding sessions powered by good music.  
 🧩 Big fan of solving complex problems and system design challenges.  
 🌍 Always learning, always improving, always curious.  
+🐧 Btw I use Arch.  
 🤝 Let’s connect and build something awesome together!
 ​‎ ‎ ‎ 
 ```
@@ -216,6 +216,8 @@ anshkumar2311@github:~$ ./welcome.sh
 <img src="https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" height="40">
 <img src="https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="40">
 <img src="https://img.shields.io/badge/huggingface-FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" height="40">
+<img src="https://img.shields.io/badge/Langflow-4B0082.svg?style=for-the-badge&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Voiceflow-4D4DFF.svg?style=for-the-badge&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/kaggle-000000.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" height="28">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="27"alt="jupyter">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="27"alt="pycharm">
@@ -231,6 +233,7 @@ anshkumar2311@github:~$ ./welcome.sh
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11" height="27">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="27">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt=" Linux" height="27">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" height="27">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu-server" height="27">
 <img src="https://img.shields.io/badge/-Garuda_Linux-8E44AD?style=for-the-badge&logo=garuda-linux&logoColor=white" alt="Garuda Linux" height="27">
 <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" height="27" alt="Pop">
