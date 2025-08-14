@@ -287,8 +287,8 @@ anshkumar2311@github:~$ ./welcome.sh
   <tbody>
     <tr>
       <th>
-        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=8">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=8&card_height=480&card_width=450"/>
+        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=12">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=12&card_height=480&card_width=450"/>
         </a>
       </th>
       <th>
