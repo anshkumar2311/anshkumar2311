@@ -337,6 +337,5 @@ anshkumar2311@github:~$ ./welcome.sh
   **Thanks for visiting my profile! 🙏**
   
   *Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
-  
 </div>
 
