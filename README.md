@@ -169,7 +169,7 @@ anshkumar2311@github:~$ ./welcome.sh
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="27" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="27">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="27">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="27">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="27">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="27">
@@ -185,7 +185,7 @@ anshkumar2311@github:~$ ./welcome.sh
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="27">
 <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height="27">
 <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" height="27">
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite" height="27">
+<!-- <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite" height="27"> -->
 <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm" height="27">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="27">
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28">
@@ -202,7 +202,7 @@ anshkumar2311@github:~$ ./welcome.sh
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" height="27" alt="gitKraken">
 <img src="https://img.shields.io/badge/-Warp-7E5BEF?style=for-the-badge&logo=warp&logoColor=white" alt="Warp" height="27">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="27">
-<img src="https://img.shields.io/badge/RapidAPI-00E5FF?style=for-the-badge&logo=rapidapi&logoColor=black" alt="RapidAPI" height="27">
+<!-- <img src="https://img.shields.io/badge/RapidAPI-00E5FF?style=for-the-badge&logo=rapidapi&logoColor=black" alt="RapidAPI" height="27"> -->
 <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="27">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="27">
 <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="28"> 
@@ -218,7 +218,7 @@ anshkumar2311@github:~$ ./welcome.sh
 <img src="https://img.shields.io/badge/huggingface-FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" height="40">
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" height="27">
 <img src="https://img.shields.io/badge/Langflow-4B0082.svg?style=for-the-badge&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Voiceflow-4D4DFF.svg?style=for-the-badge&logoColor=white" height="27">
+<!-- <img src="https://img.shields.io/badge/Voiceflow-4D4DFF.svg?style=for-the-badge&logoColor=white" height="27"> -->
 <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="27">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="27"alt="jupyter">
 <!-- <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="27"alt="pycharm"> -->
