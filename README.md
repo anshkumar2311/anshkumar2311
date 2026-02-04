@@ -32,12 +32,13 @@
 
 <a href="https://github-trophies.vercel.app/?username=anshkumar2311" target="_blank">
 <!--   <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=8"> -->
-  <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=8">
+  <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=AchieveSSSRank,MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=9">
 </a>
+
 
 <!--<img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Repositories,Followers,Issues&row=1&column=8">-->
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)
+ <!--[![trophy](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)](https://github-profile-trophy.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=Experience,Review)-->
 
 <br>
 
@@ -260,23 +261,38 @@ anshkumar2311@github:~$ ./welcome.sh
             <img src="https://nirzak-streak-stats.vercel.app/?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
           </a>
         </th> 
-        <th>
+        <!-- <th>
           <a href="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400"/>
           </a>
-        </th>
+        </th> -->
     </tr>
   </tbody>
 </table>
-  
+    <table>
+  <tbody>
+    <tr>
+      <!-- <th>
+        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=12">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=12&card_height=480&card_width=450"/>
+        </a>
+      </th> -->
+      <th>
+        <a href="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true">
+          <img src="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+</table>
 <table>
   <tbody>
     <tr>
-      <th>
+      <!-- <th>
         <a href="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&">
           <img src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=dracula"/>
         </a>
-      </th>
+      </th> -->
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshkumar2311">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshkumar2311&theme=dracula"/>
@@ -286,29 +302,15 @@ anshkumar2311@github:~$ ./welcome.sh
   </tbody>
 </table>
 
-  <table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=12">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=12&card_height=480&card_width=450"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true">
-          <img src="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-</table>
+
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
 
-<br>
-
-### 📈 3d-Contribution Graph:
+<br> -->
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/pacman-contribution-graph.svg"> 
+</picture>
+<!--### 📈 3d-Contribution Graph: -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 <div align="center">
@@ -316,16 +318,19 @@ anshkumar2311@github:~$ ./welcome.sh
 </div>
 <br>
 
-### 🐍 Snake-Eating Contribution Graph:
+<!--### 🐍 Snake-Eating Contribution Graph:-->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+
+  
 <div align="center">
 <!--   <img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
-  <picture>
+  <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshkumar2311/anshkumar2311/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
 </div>
 
 <div align="center">
