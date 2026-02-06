@@ -250,26 +250,7 @@ anshkumar2311@github:~$ ./welcome.sh
    [![wakatime](https://wakatime.com/badge/user/9506c64b-0ba9-414f-a1af-809e23aeb4c4.svg)](https://wakatime.com/@9506c64b-0ba9-414f-a1af-809e23aeb4c4)
 <div align="center">
 <!-- <img src="https://wakatime.com/share/@anshkumar2311/529bfb15-db9f-4e8e-b7aa-0dc70baa56d8.svg" width="800" height="350"/> -->
-<table>
-  <tbody>
-    <tr>
-        <th>
-<!--           <a href="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
-            <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
-          </a> -->
-          <a href="https://nirzak-streak-stats.vercel.app/?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
-            <img src="https://nirzak-streak-stats.vercel.app/?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
-          </a>
-        </th> 
-        <!-- <th>
-          <a href="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400"/>
-          </a>
-        </th> -->
-    </tr>
-  </tbody>
-</table>
-    <table>
+   <table>
   <tbody>
     <tr>
       <!-- <th>
@@ -277,20 +258,9 @@ anshkumar2311@github:~$ ./welcome.sh
           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshkumar2311&layout=compact&theme=dracula&langs_count=12&card_height=480&card_width=450"/>
         </a>
       </th> -->
-      <th>
+      <!-- <th>
         <a href="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true">
           <img src="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <tbody>
-    <tr>
-      <!-- <th>
-        <a href="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&">
-          <img src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=dracula"/>
         </a>
       </th> -->
       <th>
@@ -301,6 +271,53 @@ anshkumar2311@github:~$ ./welcome.sh
     </tr>
   </tbody>
 </table>
+  <table>
+  <tbody>
+    <tr>
+      <!-- <th>
+        <a href="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&">
+          <img src="https://github-readme-stats.vercel.app/api?username=anshkumar2311&show_icons=true&locale=en&theme=dracula"/>
+        </a>
+      </th> -->
+      <!-- <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshkumar2311">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshkumar2311&theme=dracula"/>
+        </a>
+      </th> -->
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshkumar2311">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshkumar2311&radius=16&theme=redical&area=true&order=5" height="300" width="890" alt="activity-graph graph"  />
+        </a w>
+      </th>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+        <th>
+<!--           <a href="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
+            <img src="https://streak-stats.demolab.com?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=190&card_width=450"/>
+          </a> -->
+          <a href="https://nirzak-streak-stats.vercel.app/?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=235">
+            <img src="https://nirzak-streak-stats.vercel.app/?user=anshkumar2311&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_height=260&card_width=450"/>
+          </a>
+        </th> 
+        <!-- <th>
+          <a href="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkumar2311&show_icons=true&locale=en&langs_count=12&theme=dracula&layout=compact&card_width=380&card_height=400"/>
+          </a>
+        </th> -->
+      <th>
+        <a href="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true">
+          <img src="https://github-contributor-stats.vercel.app/api?username=anshkumar2311&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+</table>
+   
+
 
 
 </div>
