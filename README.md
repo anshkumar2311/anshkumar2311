@@ -32,7 +32,7 @@
 
 <a href="https://github-trophies.vercel.app/?username=anshkumar2311" target="_blank">
 <!--   <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=8"> -->
-  <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=AchieveSSSRank,MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=8">
+  <img src="https://github-trophies.vercel.app/?username=anshkumar2311&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=AchieveSuperRank,MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=9">
 </a>
 
 
